@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README for Short Notes App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #e0e0e0;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
 <body>
     <h1>Short Notes App</h1>
     <p>This is a simple web-based application to save short notes with a title, date, and time using an SQLite database. It can also be used as a to-do list.</p>
@@ -64,4 +32,4 @@
     <p>This project is open-source and available for use and modification.</p>
     <p>Happy coding!</p>
 </body>
-</html>
+
