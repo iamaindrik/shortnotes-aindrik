@@ -9,3 +9,4 @@ MarkupSafe
 SQLAlchemy
 typing_extensions
 Werkzeug
+gunicorn
